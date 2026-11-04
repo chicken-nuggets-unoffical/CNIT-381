@@ -25,4 +25,5 @@ Called the GitHub REST API from Python to read my repo and create an issue.
 ## Week 8: OSPF by hand, then automated
 What I did: configured OSPF manually, ran a provided playbook that automated it, and wrote my own playbook to back up the configs. What I learned: More details on how ansible works and how it expects its playbooks to be formatted.
 
-## Week 9: Build a Network and Automate It End to End What I built: a CML topology (2 routers, a switch, and an Ubuntu control node), bootstrapped the devices by hand, then used Ansible to configure loopbacks, EIGRP, a login banner, and to back up all devices. What I learned: VM preperation and even more playbook details.
+## Week 9: 
+Build a Network and Automate It End to End What I built: a CML topology (2 routers, a switch, and an Ubuntu control node), bootstrapped the devices by hand, then used Ansible to configure loopbacks, EIGRP, a login banner, and to back up all devices. What I learned: VM preperation and even more playbook details.
