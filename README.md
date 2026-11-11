@@ -27,3 +27,10 @@ What I did: configured OSPF manually, ran a provided playbook that automated it,
 
 ## Week 9: 
 Build a Network and Automate It End to End What I built: a CML topology (2 routers, a switch, and an Ubuntu control node), bootstrapped the devices by hand, then used Ansible to configure loopbacks, EIGRP, a login banner, and to back up all devices. What I learned: VM preperation and even more playbook details.
+
+## Week 10:
+Broke.
+
+## Week 11: RESTCONF on a 3650 Switch
+What I did: enabled RESTCONF on the switch, then read and changed its config
+with Postman and a Python script. What I learned: How RESTCONF functions.
